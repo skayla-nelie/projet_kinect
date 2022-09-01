@@ -22,7 +22,6 @@ https://www.youtube.com/watch?v=0BmWpZPHsTw/
 
 ## sabrina:
 https://youtu.be/2ftkC3tHG6w
-![image](https://static.wikia.nocookie.net/virtualyoutuber/images/4/4e/Selen_Tatsuki_Portrait.png/revision/latest?cb=20210719072816)
 
 ## eloise
 Interaction avec modèle 2D/3D
