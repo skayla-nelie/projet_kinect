@@ -16,7 +16,8 @@ Inspiration:
 -[Projection](https://blogaadb.blogspot.com/2009/11/experimentation-du-dispositif-de.html)
 
 ## skayla:
-Projection ou il y a interation avec l'utilisateur.
+Projection ou il y a interation avec les utilisteurs.
+jeu ou il faut envoyer le plus de balle dans l'espace de lautre.
 -[projection au mur](https://www.youtube.com/watch?v=KLOB-T1mgdY)
 ![image](https://user-images.githubusercontent.com/90851580/187996895-5a7b2486-cfd8-4632-9b37-5957eb571f83.png)
 
@@ -31,5 +32,3 @@ Nano hologramme/ projection sur plexigals
 ![image](https://user-images.githubusercontent.com/70410591/187994368-9a357033-08a7-41a7-9864-c98c7237cdb2.png)
 
 ![image](https://user-images.githubusercontent.com/70410591/187995971-0de37a66-0ffa-47eb-8f22-8b69ef8976fb.png)
-
-![image](https://user-images.githubusercontent.com/70410591/188002615-90d725f1-f6ba-44a4-b1e5-daee34935754.png)
