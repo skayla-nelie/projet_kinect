@@ -10,6 +10,7 @@ ex:
 ![sphere](https://2.bp.blogspot.com/_aa_4f6B8K1U/Sw9BZKoIsAI/AAAAAAAAAnk/eiXwtqBkrbM/s1600/DSC_0012.JPG)
 
 Inspiration:
+
 -[Sphère](https://theinspirationgrid.com/anima-interactive-art-installation-by-onformative/)
 
 -[Projection](https://blogaadb.blogspot.com/2009/11/experimentation-du-dispositif-de.html)
