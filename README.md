@@ -17,7 +17,8 @@ Inspiration:
 
 ## skayla:
 Projection au sol
-![plancher]()
+![plancher](![image](https://user-images.githubusercontent.com/90851580/187996388-4474f084-5989-4a1e-8d39-a493e4be564a.png)
+)
 https://www.youtube.com/watch?v=0BmWpZPHsTw/
 
 ## sabrina:
