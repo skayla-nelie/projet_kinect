@@ -19,3 +19,9 @@ https://www.youtube.com/watch?v=0BmWpZPHsTw/
 
 ## sabrina:
 https://youtu.be/2ftkC3tHG6w
+
+## eloise
+Interaction avec modèle 2D/3D
+
+![image](![image](https://user-images.githubusercontent.com/70410591/187994368-9a357033-08a7-41a7-9864-c98c7237cdb2.png)
+)
