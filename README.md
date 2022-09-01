@@ -16,6 +16,8 @@ Inspiration:
 -[Projection](https://blogaadb.blogspot.com/2009/11/experimentation-du-dispositif-de.html)
 
 ## skayla:
+Projection au sol
+![plancher]()
 https://www.youtube.com/watch?v=0BmWpZPHsTw/
 
 ## sabrina:
