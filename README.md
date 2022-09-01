@@ -2,8 +2,9 @@
 
 
 ## michael:
-[sphère](https://theinspirationgrid.com/anima-interactive-art-installation-by-onformative/)
-[projection](https://blogaadb.blogspot.com/2009/11/experimentation-du-dispositif-de.html))
+-[sphère](https://theinspirationgrid.com/anima-interactive-art-installation-by-onformative/)
+
+-[projection](https://blogaadb.blogspot.com/2009/11/experimentation-du-dispositif-de.html)
 
 
 
