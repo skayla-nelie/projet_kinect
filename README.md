@@ -16,10 +16,9 @@ Inspiration:
 -[Projection](https://blogaadb.blogspot.com/2009/11/experimentation-du-dispositif-de.html)
 
 ## skayla:
-Projection au sol
-![plancher](![image](https://user-images.githubusercontent.com/90851580/187996388-4474f084-5989-4a1e-8d39-a493e4be564a.png)
+Projection ou il y a interation avec l'utilisateur.
+![projection au mur](![image](https://www.youtube.com/watch?v=KLOB-T1mgdY)
 )
-https://www.youtube.com/watch?v=0BmWpZPHsTw/
 
 ## sabrina:
 https://youtu.be/2ftkC3tHG6w
