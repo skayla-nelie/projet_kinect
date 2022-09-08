@@ -28,8 +28,10 @@ jeu ou il faut envoyer le plus de balle dans l'espace de lautre.
 
 ## sabrina:
 https://youtu.be/2ftkC3tHG6w
+</br>
 https://live3d.io/vtuber_maker
-<img src="https://github.com/skayla-nelie/projet_kinect/blob/main/BeFunky-collage.jpg?raw=true" width="48">
+</br>
+<img src="https://github.com/skayla-nelie/projet_kinect/blob/main/BeFunky-collage.jpg?raw=true" width="800">
 
 ## eloise
 Interaction avec modèle 2D/3D
