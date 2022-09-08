@@ -5,7 +5,8 @@
 humm: projection d'un cercle sur un mur. l'image a l'intérieure de celle-ci serait modifier par les mouvement de l'intéracteur capté par une Kinect 
 
 ex:
-![image](https://user-images.githubusercontent.com/78884924/189215762-770e7496-0958-416c-80c1-b9d5d9cc2d5f.png)
+<img width="1012" alt="Frame 1" src="https://user-images.githubusercontent.com/78884924/189215832-9438b6ea-1329-45e5-9d4a-6252a2e38722.png">
+
 
 ![sphere](https://mir-s3-cdn-cf.behance.net/projects/404/df05b335734979.Y3JvcCw4NzYsNjg1LDE5MywyMQ.jpg)
 ![sphere](https://2.bp.blogspot.com/_aa_4f6B8K1U/Sw9BZKoIsAI/AAAAAAAAAnk/eiXwtqBkrbM/s1600/DSC_0012.JPG)
