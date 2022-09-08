@@ -24,7 +24,8 @@ Projection ou il y a interation avec les utilisteurs.
 jeu ou il faut envoyer le plus de balle dans l'espace de lautre.
 -[projection au mur](https://www.youtube.com/watch?v=KLOB-T1mgdY)
 ![image](https://user-images.githubusercontent.com/90851580/187996895-5a7b2486-cfd8-4632-9b37-5957eb571f83.png)
-!![Desktop - 1](https://user-images.githubusercontent.com/90851580/188011510-21199a81-aab6-47f9-a54a-9eb8e32fadee.png)
+!![Desktop - 1](![Slide 16_9 - 1](https://user-images.githubusercontent.com/90851580/189216656-ea7e751d-00bb-4b9c-914d-11848ba0f409.png)
+)
 
 
 ## sabrina:
