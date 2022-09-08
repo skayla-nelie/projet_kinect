@@ -28,6 +28,7 @@ jeu ou il faut envoyer le plus de balle dans l'espace de lautre.
 
 ## sabrina:
 https://youtu.be/2ftkC3tHG6w
+https://live3d.io/vtuber_maker
 
 ## eloise
 Interaction avec modèle 2D/3D
